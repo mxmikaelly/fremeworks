@@ -26,4 +26,5 @@ export class DeleteTodoUseCase {
       throw error;
     }
 }
+
 }
